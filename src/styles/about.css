@@ -23,15 +23,17 @@
 
 #about_content p {
   color: #fff;
+  text-align: center;
   height: auto;
-  align-items: center;
-  gap: 20px;
+  gap: 10px;
   padding: 12px;
   
   
 }
 
-
+#about_content .divinterface p {
+  text-align: center;
+}
 
 
 
