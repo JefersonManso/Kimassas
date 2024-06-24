@@ -16,18 +16,18 @@ header {
 }
 
 #nav_logo {
-  font-size: 1px;
+  font-size: 24px;
 }
 
 #nav_list {
   display: flex;
   list-style: none;
-  gap: 5.5rem;
+  gap: 48px;
 }
 
 .nav-item a {
   text-decoration: none;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   color: #fdf302;
   font-weight: 600;
 }
